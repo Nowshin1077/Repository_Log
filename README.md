@@ -1,5 +1,14 @@
 # Repository_Log
 
+Categories List:-
+1) Placement
+2) Programming
+3) Projects
+4) Undergrad Works
+5) Open Source
+6) Remote Work
+7) Resources and all
+8) Miscellaneous
 
 
 <h2 align="center">📦 Category – Placement</h2> 
@@ -32,20 +41,6 @@
 | Undergrad-Projects | Undergrad Project | Undergrad project works are here | C, C++, Python | ✅ Done | https://github.com/Nowshin1077/Undergrad-Projects |
 | Capstone_final_year_project | Undergrad Project | Final Year Project | Python, ML, DL |	✅ Done | https://github.com/Nowshin1077/Capstone_final_year_project |
 | Undergrad_ek-er-vhitor-shob | Undergrad Resources | Almost all my undergraduate work and resources are here | C, C++, Python, CS theoritical knowledge | ✅ Done | https://github.com/Nowshin1077/Undergrad_ek-er-vhitor-shob |
-
-<h2 align="center">📦 Category – Miscellaneous</h2> 
-
-| Repo Name | Tag | Description | Tech Stack | Status | Link |
-| --- | --- | --- | --- | --- | --- |
-| Nowshin1077 | Personal Portfolio | A beautiful, simple, clean, and responsive Jekyll theme for academics  | N/A | 🧪 In Progress | https://github.com/Nowshin1077/nowshin1077.github.io | 
-| Online_Course | Resources | Massive open online course (MOOC) | A beautiful, simple, clean, and responsive Jekyll theme for academics  | 🧪 In Progress | https://github.com/Nowshin1077/Online_Course | 
-
-
-
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-
 
 
 
@@ -86,6 +81,13 @@ ___________________________________________________________
 
 
 
+
+<h2 align="center">📦 Category – Miscellaneous</h2> 
+
+| Repo Name | Tag | Description | Tech Stack | Status | Link |
+| --- | --- | --- | --- | --- | --- |
+| Nowshin1077 | Personal Portfolio | A beautiful, simple, clean, and responsive Jekyll theme for academics  | N/A | 🧪 In Progress | https://github.com/Nowshin1077/nowshin1077.github.io | 
+| Online_Course | Resources | Massive open online course (MOOC) | A beautiful, simple, clean, and responsive Jekyll theme for academics  | 🧪 In Progress | https://github.com/Nowshin1077/Online_Course | 
 
 
 
